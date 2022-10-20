@@ -1,0 +1,4 @@
+W:\Files\Development\RegisteredOrganizationChange\bin\Debug\RegisteredOrganizationChange.exe
+W:\Files\Development\RegisteredOrganizationChange\bin\Debug\RegisteredOrganizationChange.pdb
+W:\Files\Development\RegisteredOrganizationChange\obj\x86\Debug\RegisteredOrganizationChange.exe
+W:\Files\Development\RegisteredOrganizationChange\obj\x86\Debug\RegisteredOrganizationChange.pdb

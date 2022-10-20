@@ -1,0 +1,5 @@
+W:\Files\Development\RegisteredOrganizationChange\bin\Debug\RegisteredOrganizationChange.exe
+W:\Files\Development\RegisteredOrganizationChange\bin\Debug\RegisteredOrganizationChange.pdb
+W:\Files\Development\RegisteredOrganizationChange\obj\Debug\RegisteredOrganizationChange.exe
+W:\Files\Development\RegisteredOrganizationChange\obj\Debug\RegisteredOrganizationChange.pdb
+W:\Files\Development\RegisteredOrganizationChange\obj\Debug\RegisteredOrganizationChange.csprojResolveAssemblyReference.cache
